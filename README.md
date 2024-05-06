@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhav-tomar&label=Profile%20views&color=0e75b6&style=flat" alt="anubhav-tomar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anubhav__tomar" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav__tomar?logo=twitter&style=for-the-badge" alt="anubhav__tomar" /></a> </p>
-
 - 🔭 I’m currently working on **Competeitive Programming**
 
 - 🌱 I’m currently learning **C++**
