@@ -84,18 +84,10 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/anubhav-tomar-b73b3825b/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="55" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/anubhav__tomar" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="55" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/__anubhav_tomar?igsh=dTM1MzR5YWJhbWlj&utm_source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
-  </a>
-<a href="https://www.leetcode.com/anubhav_tomar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anubhav_tomar" width="55" height="40" />
-</a>
+ <a href="https://twitter.com/https://twitter.com/anubhav__tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/anubhav__tomar" width="55" height="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anubhav-tomar-b73b3825b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anubhav-tomar-b73b3825b/" width="55" height="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__anubhav_tomar?igsh=dtm1mzr5ywjhbwlj&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__anubhav_tomar?igsh=dtm1mzr5ywjhbwlj&utm_source=qr" width="55" height="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/anubhav_tomar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anubhav_tomar/" width="55" height="40" /></a>
 </div>
 
 ###
