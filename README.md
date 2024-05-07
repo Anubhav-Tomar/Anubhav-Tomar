@@ -93,8 +93,9 @@
   <a href="https://www.instagram.com/__anubhav_tomar?igsh=dTM1MzR5YWJhbWlj&utm_source=qr" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="55" height="40" alt="instagram logo"  />
   </a>
-<a href="https://www.leetcode.com/anubhav_tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anubhav_tomar" height="55" width="40" /></a>
-</p>
+<a href="https://www.leetcode.com/anubhav_tomar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anubhav_tomar" width="55" height="40" />
+</a>
 </div>
 
 ###
