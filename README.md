@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Competeitive Programming<br><br>🌱 I’m currently learning C++<br><br>👯 I’m looking to collaborate on Open Source<br><br>💬 Ask me about Web Development, DSA<br><br>📫 How to reach me anubhavtomar35@gmail.com</p>
+<p align="left">🔭 I’m currently working on **Competeitive Programming**<br><br>🌱 I’m currently learning C++<br><br>👯 I’m looking to collaborate on Open Source<br><br>💬 Ask me about Web Development, DSA<br><br>📫 How to reach me anubhavtomar35@gmail.com</p>
 
 ###
 
