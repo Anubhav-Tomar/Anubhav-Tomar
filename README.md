@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Competeitive Programming**
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Web Development, DSA**
+- 💬 Ask me about **Web Development,iOS Development, DSA**
 - 📫 How to reach me **anubhavtomar35@gmail.com**
 
 ###
@@ -66,6 +66,7 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
 
 ###
