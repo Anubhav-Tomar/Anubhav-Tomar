@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on **Competeitive Programming**
 - 🌱 I’m currently learning **C++**
 - 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Web Development,iOS Development, DSA**
+- 💬 Ask me about **iOS Development, Web Development, DSA**
 - 📫 How to reach me **anubhavtomar35@gmail.com**
 
 ###
