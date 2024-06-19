@@ -66,8 +66,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
 </div>
 
 ###
