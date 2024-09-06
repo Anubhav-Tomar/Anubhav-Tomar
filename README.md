@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anubhav Tomar</h1>
+<h1 align="center">Hi 👋🏻, I'm Anubhav Tomar</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 ###
 
 - 🔭 I’m currently working on **Competeitive Programming**
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++** and **Swift**
 - 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about **iOS Development, Web Development, DSA**
 - 📫 How to reach me **anubhavtomar35@gmail.com**
