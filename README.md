@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **C++** and **Swift**
 - 👯 I’m looking to collaborate on **Open Source**
 - 💬 Ask me about **iOS Development, Web Development, DSA**
-- 📫 How to reach me **anubhavtomar35@gmail.com**
+- 📫 Reach me at **anubhavtomar35@gmail.com**
 
 ###
 
